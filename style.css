@@ -1,0 +1,139 @@
+/* Colors and fonts */
+body{
+	background: #eeecda;
+	color: rgb(30,30,30);
+	font-family: 'Lora', serif;
+	font-size: 16px;
+}
+
+h1, h2, h3 {
+	font-family: 'Crimson Text', serif;
+	}
+
+h1{ 
+	color: #aa4a30;
+	font-size: 30 px;
+	font-weight: 900;
+ }
+
+h2{
+	color: #aa4a30;
+	font-size: 25px;
+	font-weight: 500;
+}
+
+a{
+	text-decoration: none;
+	color: #b83b5e;
+	font-weight: 600;
+	font-size: 17px;
+}
+
+a:hover{ 
+	text-decoration: none;
+	color: #f08a5d;
+}
+
+body{
+	background: #edcfa9;
+	color: rgb(30,30,30);
+	font-family: 'Work Sans', sans-serif;
+	font-size: 16px;
+}
+
+/* Custom design with class and id */
+
+.container {
+	width: 700px; 
+	margin: 40px auto;
+}
+
+.card-beige {
+	background-color: #f7ebdc;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+
+#resize {
+	width:160px;
+  	height:150px;
+}
+
+.btn-orange {
+	background-color: #d57149;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+
+.btn-orange:hover {
+	background-color: #aa4a30;
+	color: white;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+
+.icon-resize {
+	width: 45px;
+  	height: 45px;
+}
+
+.icon-resize:hover {
+	width: 50px;
+  	height: 50px;
+}
+
+#introduction p {
+	margin-bottom: 40px;
+}
+
+/* Responsive design */ 
+
+@media (max-width: 960px) {
+  .container {
+    width: 700px;
+  }
+
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
